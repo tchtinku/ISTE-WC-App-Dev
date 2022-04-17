@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.iste_task_1_new"
+    package="com.example.todo_app_new"
     android:versionCode="1"
     android:versionName="1.0.0" >
 
@@ -18,9 +18,9 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="iste_task_1_new" >
+        android:label="todo_app_new" >
         <activity
-            android:name="com.example.iste_task_1_new.MainActivity"
+            android:name="com.example.todo_app_new.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"

@@ -1,4 +1,4 @@
-com.example.iste_task_1_new
+com.example.todo_app_new
 attr activityAction
 attr activityName
 attr alpha

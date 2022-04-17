@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\hbhan\\OneDrive - Manipal Academy of Higher Education\\IMP STUFF\\Coding\\AppDev\\iste_task_1_new\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\hbhan\\Downloads\\bruh\\ISTE-WC-App-Dev\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hbhan\\OneDrive - Manipal Academy of Higher Education\\IMP STUFF\\Coding\\AppDev\\iste_task_1_new\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\hbhan\\Downloads\\bruh\\ISTE-WC-App-Dev\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
